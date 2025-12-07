@@ -1,5 +1,6 @@
 # PROJECT-DATA-WRANGLING_22
 Proyek ini menganalisis hubungan antara kemiskinan dan cakupan imunisasi dasar lengkap di Indonesia. Meski imunisasi penting untuk mencegah penyakit dan mendukung SDGs, disparitas sosial ekonomi dan akses layanan kesehatan masih menyebabkan ketimpangan antarprovinsi. Hasil analisis diharapkan membantu penyusunan kebijakan kesehatan yang lebih rata
+
 Keterangan pada dataset hasil_cleaning_csv:
 Not a Number (NaN)
 NaN digunakan secara standar dalam ilmu data untuk menandai nilai yang hilang (missing value) atau data yang tidak tersedia dalam suatu kolom. NaN bukan angka, bukan nol, dan bukan pula error melainkan penanda resmi bahwa suatu observasi tidak memiliki nilai yang valid.
