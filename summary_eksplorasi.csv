@@ -1,0 +1,28 @@
+﻿Kategori,Indikator,Nilai
+Metadata,Total Provinsi,38
+Metadata,Tahun Data,2023
+Metadata,Provinsi dengan Data Lengkap,34
+Metadata,Provinsi dengan Missing Data,4
+Kemiskinan,Rata-rata % Kemiskinan Nasional,10.09%
+Kemiskinan,Provinsi Termiskin,Papua (26.03%)
+Kemiskinan,Provinsi Termakmur,Bali (4.25%)
+Kemiskinan,Kesenjangan (max/min),6.1x lipat
+Kemiskinan,Rata-rata Garis Kemiskinan,"Rp 597,448"
+Kemiskinan,Total Penduduk Miskin,25.90 juta orang
+Imunisasi,Rata-rata Coverage HB0,78.25%
+Imunisasi,Rata-rata Coverage BCG,79.41%
+Imunisasi,Rata-rata Coverage DPT-HB-Hib,68.51%
+Imunisasi,Rata-rata Coverage Polio,36.82%
+Imunisasi,Rata-rata Coverage Campak-Rubella,59.35%
+Imunisasi,Provinsi Coverage Terbaik,Bali (92.30%)
+Imunisasi,Provinsi Coverage Terburuk,Papua Pegunungan (13.14%)
+Imunisasi,Provinsi Mencapai Target WHO (≥80%),4 dari 38 provinsi
+Korelasi,% Kemiskinan vs Imunisasi,-0.1906 (Negatif Kuat)
+Korelasi,Garis Kemiskinan vs Imunisasi,-0.1494 (Positif Sedang)
+Korelasi,Jumlah Miskin vs Imunisasi,0.2328 (Lemah)
+Insight_Kunci,1,Kemiskinan adalah penghambat utama program imunisasi (korelasi -0.58)
+Insight_Kunci,2,Papua mengalami double burden: kemiskinan tinggi + coverage imunisasi rendah
+Insight_Kunci,3,Vaksin Polio sangat rendah (38.80%) - perlu intervensi khusus
+Insight_Kunci,4,Kesenjangan regional sangat besar (6x lipat antara Papua dan Bali)
+Insight_Kunci,5,"Provinsi urban (Jakarta, Bali) punya coverage tinggi meski biaya hidup mahal"
+Insight_Kunci,6,Jawa Timur kontribusi kemiskinan terbesar karena populasi tinggi
